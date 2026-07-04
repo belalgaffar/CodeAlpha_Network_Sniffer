@@ -6,7 +6,7 @@ Educational tool for capturing and inspecting network packets.
 Displays Source IP, Destination IP, Protocol, and (safe) payload preview.
 
 Cross-platform: Works on Windows (requires Npcap) and Linux (requires root).
-Author: [Your Name] — Cybersecurity Internship Project
+Author: Belal Gaffar — Cybersecurity Internship Project
 """
 
 from scapy.all import sniff, IP, TCP, UDP, ICMP, Raw
